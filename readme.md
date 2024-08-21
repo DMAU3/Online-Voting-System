@@ -1,8 +1,9 @@
 
 # Voting Smart Contract
 
-## Vision
 ![alt text](image-1.png)<br/>
+
+## Vision
 The Voting Smart Contract is designed to facilitate a secure, transparent, and immutable voting process on the Ethereum blockchain. This contract allows users to vote for candidates in a decentralized manner, ensuring that votes are recorded and counted in a tamper-proof system. It is ideal for elections, polls, and any scenario where secure and transparent voting is required.
 
 ### Key Functions:
